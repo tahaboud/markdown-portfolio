@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Games:
+  * Chess
+  * Volleyball
+2. Web Development
